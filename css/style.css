@@ -110,7 +110,7 @@ img {
   -ms-transform: skewY(0deg);
 }
 
-@media (max-width:300px){
+@media (max-width:100px){
   .showcase::before,
   .showcase::after {
     height:150px;
