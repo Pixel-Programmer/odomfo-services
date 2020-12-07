@@ -104,13 +104,11 @@ img {
   right: 0;
   left: 0;
   background: #fff;
-  transform: skewY(-3deg);
-  -webkit-transform: skewY(-3deg);
-  -moz-transform: skewY(-3deg);
-  -ms-transform: skewY(-3deg);
+  transform: skewY(0deg);
+  -webkit-transform: skewY(0deg);
+  -moz-transform: skewY(0deg);
+  -ms-transform: skewY(0deg);
 }
-
-
 
 .showcase-form .form-control {
   margin: 30px 0;
@@ -132,5 +130,5 @@ img {
 /* Stats */
 
 .stats {
-  margin-top:100px;
+  margin-top: 100px;
 }
