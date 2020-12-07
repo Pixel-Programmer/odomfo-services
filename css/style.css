@@ -110,6 +110,13 @@ img {
   -ms-transform: skewY(0deg);
 }
 
+@media (max-width:300px){
+  .showcase::before,
+  .showcase::after {
+    height:150px;
+  }
+}
+
 .showcase-form .form-control {
   margin: 30px 0;
 }
